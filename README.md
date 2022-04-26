@@ -9,7 +9,7 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
 * 🌍  I'm based in Thessaloniki, Greece
 * 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
-* 🚀  I'm currently working on [Pepaverse](http://leonardpepa.github.io/Personal-Portfolio/source/)
+* 🚀  I'm currently working on [Pepaverse](https://github.com/Leonardpepa/Pepaverse)
 * 🧠  I'm learning Backend Development: Node.js, Express.js, Passport.js, Socket.io, Frontend Development: React.js, Next.js, Javascript,HTML5, CSS, Bootstrap, Android Development: Java, Android Studio.
 * 🤝  I'm open to collaborating on Open source software, Java libraries, Mobile applications, Backend services etc
 * ⚡  My Hobbies include writing software, learning new things, playing chess, exploring the mysteries of the universe.
