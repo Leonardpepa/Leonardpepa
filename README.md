@@ -5,7 +5,7 @@
 *   ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
 *   [Leonard's Pepa Github](https://github.com/Leonardpepa)
 
-I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. In parallel with my studies im trying to stay up to date with major technologies like React, Next.js, Node.js, express, passport.js, socket.io etc. You can find my projects in my github profile.
+I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. In parallel with my studies im trying to stay up to date with major technologies like React.js, Next.js, Node.js, express.js, passport.js, MongoDB etc. You can find my projects in my github profile.
 My current reaserch interests are: software maintainability, software quality management and software design.
 
 ## GitHub Stat's
