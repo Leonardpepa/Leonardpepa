@@ -7,7 +7,7 @@ University Student, Software Engineer, Java enthusiast
 I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. In parallel with my studies im trying to stay up to date with major technologies like React.js, Next.js, Node.js, Express.js, Passport.js, MongoDB etc. You can find my projects in my github profile. My current reaserch interests are: software maintainability, software quality management and software design.
 
 * 🌍  I'm based in Thessaloniki, Greece
-* 🖥️  See my portfolio at [Leonard's Pepa Portfolio](http://https://leonardpepa.github.io/Personal-Portfolio/source/)
+* 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
 * 🚀  I'm currently working on [Pepaverse](http://leonardpepa.github.io/Personal-Portfolio/source/)
 * 🧠  I'm learning Backend Development: Node.js, Express.js, Passport.js, Socket.io, Frontend Development: React.js, Next.js, Javascript,HTML5, CSS, Bootstrap, Android Development: Java, Android Studio.
