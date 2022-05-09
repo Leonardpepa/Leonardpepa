@@ -11,9 +11,16 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
 * 🚀  I'm currently working on [Pepaverse](https://github.com/Leonardpepa/Pepaverse)
 * 🧠  I'm most familiar with:
+    * Programming Languages:
+      * Java
+      * Javascript
+      * python
+      * c   
     * Backend Development:
        * Node.js
        * Express.js
+       * MongoDB
+       * SQL
     * Frontend Development:
       * React.js
       * Javascript
