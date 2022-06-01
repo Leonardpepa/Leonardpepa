@@ -14,8 +14,9 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
     * Programming Languages:
       * Java
       * Javascript
-      * python
-      * c   
+      * Python
+      * PHP
+      * C   
     * Backend Development:
        * Node.js
        * Express.js
