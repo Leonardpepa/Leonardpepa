@@ -4,7 +4,7 @@ Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 University Student, Software Engineer, Java enthusiast
 ------------------------------------------------------
 
-I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies like React.js, Next.js, Node.js, Express.js, Passport.js, MongoDB etc. You can find my projects in my github profile. My current reaserch interests are: software maintainability, software quality management and software design.
+I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies like React.js, Next.js, Node.js, Express.js, Passport.js, MongoDB etc. You can find my projects in my github profile. My current reaserch interests are: software design and maintainability, programming languages and compilers design.
 
 * 🌍  I'm based in Thessaloniki, Greece
 * 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
