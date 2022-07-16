@@ -9,7 +9,7 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
 * 🌍  I'm based in Thessaloniki, Greece
 * 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
-* 🚀  I'm currently working on [Pepaverse](https://github.com/Leonardpepa/Pepaverse)
+* 🚀  I'm currently learning programming languages and compilers design
 * 🧠  I'm most familiar with:
     * Programming Languages:
       * Java
