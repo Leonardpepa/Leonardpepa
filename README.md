@@ -4,12 +4,12 @@ Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 University Student, Software Engineer, Java enthusiast
 ------------------------------------------------------
 
-I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies like React.js, Next.js, Node.js, Express.js, Passport.js, MongoDB etc. You can find my projects in my github profile. My current reaserch interests are: software design and maintainability, programming languages and compilers design.
+I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies relevant to web development (mostly backend), mobile development. My current reaserch interests are: software design and maintainability, programming languages and compilers design and computer architecture.
 
 * 🌍  I'm based in Thessaloniki, Greece
 * 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
-* 🚀  I'm currently learning programming languages and compilers design
+* 🚀  I'm currently learning low level stuff like computer architecture, virtual machines, programming languages and compilers design
 * 🧠  I'm most familiar with:
     * Programming Languages:
       * Java
@@ -22,6 +22,7 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
        * Express.js
        * MongoDB
        * SQL
+       * Java (Spring framework)
     * Frontend Development:
       * React.js
       * Javascript
@@ -32,7 +33,7 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
       *  Java
       *  Android Studio
 * 🤝  I'm open to collaborating on open source software, enterprise applications, Java libraries, mobile applications, backend services etc
-* ⚡  My Hobbies include writing software, learning new things, playing chess, exploring the mysteries of the universe
+* ⚡  My Hobbies include writing software, learning new things, playing chess, exploring the mysteries of the universe (physics enthusiast)
 
 <a href="https://www.github.com/Leonardpepa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Leonardpepa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
