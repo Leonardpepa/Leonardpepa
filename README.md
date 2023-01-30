@@ -22,6 +22,7 @@ I am pursuing my Bachelor's degree at University Of Macedonia studying Computer 
        * MongoDB
        * SQL
        * Java (Spring framework)
+       * Docker
     * Frontend Development:
       * React.js
       * Javascript
