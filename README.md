@@ -1,15 +1,14 @@
 Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 =================================================
 
-University Student, Software Engineer, Java enthusiast
+University Student, Software Engineer, Curious and eager for knowledge
 ------------------------------------------------------
 
-I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies relevant to web development (mostly backend), mobile development. My current reaserch interests are: software design and maintainability, programming languages and compilers design and computer architecture.
+I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies relevant to software engineering (mostly backend technologies, Microservices, Cloud Development etc). My current research interests are: Software Design and Architecture, Software Development, Software engineering.
 
 * 🌍  I'm based in Thessaloniki, Greece
-* 🖥️  See my portfolio at [Leonard's Pepa Portfolio](https://leonardpepa.github.io/Personal-Portfolio/source/)
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
-* 🚀  I'm currently learning low level stuff like computer architecture, virtual machines, programming languages and compilers design
+* 🚀  I'm currently learning Software Design and Architecture of large scale systems, microservices, distributed systems etc. 
 * 🧠  I'm most familiar with:
     * Programming Languages:
       * Java
