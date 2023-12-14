@@ -1,7 +1,7 @@
 Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 =================================================
  
-Junior Software Engineer, University Student, Curious and eager for knowledge
+Software Engineer, University Student, Curious and eager for knowledge
 ------------------------------------------------------
 
 Computer Science student at the University of Macedonia. Enthusiastic about uncovering the inner workings of technology, I thrive on the excitement of learning new things and embracing emerging technologies. I excel in collaborative environments and am eager to contribute to innovative projects.
