@@ -22,7 +22,7 @@ Computer Science student at the University of Macedonia. Enthusiastic about unco
        * Express.js
        * MongoDB
        * SQL
-       * Java (Spring framework)
+       * Java (Spring Boot)
        * Docker
     * Frontend Development:
       * React.js
