@@ -1,10 +1,10 @@
 Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 =================================================
  
-Junior Software Engineer at [Rational Data](https://rationaldata.dev/), University Student, Curious and eager for knowledge
+Junior Software Engineer, University Student, Curious and eager for knowledge
 ------------------------------------------------------
 
-I am pursuing my Bachelor's degree at University Of Macedonia studying Computer Science. Meanwhile i'm trying to stay up to date with major technologies relevant to software engineering (mostly backend technologies, Microservices, Cloud Development etc). My current research interests are: Software Design and Architecture, Software Development, Software engineering.
+Computer Science student at the University of Macedonia. Enthusiastic about uncovering the inner workings of technology, I thrive on the excitement of learning new things and embracing emerging technologies. I excel in collaborative environments and am eager to contribute to innovative projects.
 
 * 🌍  I'm based in Thessaloniki, Greece
 * ✉️  You can contact me at [leopepp4@gmail.com](mailto:leopepp4@gmail.com)
