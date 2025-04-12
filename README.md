@@ -1,7 +1,7 @@
 Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
 =================================================
  
-Software Engineer, University Student, Curious and eager for knowledge
+Software Engineer, Computer Science Graduate, Curious and eager for knowledge
 ------------------------------------------------------
 
 Computer Science graduate from the University of Macedonia with a deep passion for understanding how technology works. I thrive on learning new things and embracing emerging technologies,
