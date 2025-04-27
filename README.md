@@ -1,4 +1,4 @@
-Hi 👋 My name is Leonard Pepa / GR: Λεοναρντ Πεπα
+Hi 👋 My name is Leonarnt (Leonard) Pepa / GR: Λεοναρντ Πεπα
 =================================================
  
 Software Engineer, Computer Science Graduate, Curious and eager for knowledge
